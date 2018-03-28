@@ -1,4 +1,4 @@
-# hadoopBenchmarking
+# hadoop Benchmarking, Mapreduce Benchmarking for performance and testing
 
 Hadoop Map Reduce Benchmarking using Teragen, terasort and teravalidate utility.
 
